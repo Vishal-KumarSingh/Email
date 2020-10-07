@@ -1,0 +1,2 @@
+# Email
+Enjoy Gmail API using smtp library to send emails directly through your computer to another computer. Application is available for both console and graphical and as well as source code . Please note that only gmail mailing is allowed . Enjoy the application and share it with your friends. Make sure to download smtpicon.ico file otherwise this may lead to fatal error Do not download anything individually .. 
